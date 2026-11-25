@@ -66,7 +66,7 @@
 
 adjoe is a fast-growing adtech company that provides advertising, monetization, loyalty, and playtime solutions for mobile apps. It helps advertisers, publishers, and brands reach their app growth and revenue goals through innovative ad technologies and data-driven insights.
 
-**Areas:** Advertising · Monetization · Loyalty · Mobile Gaming · SDK · Supply‑Side Platform · Ad Exchange
+**Areas:** Advertising · Monetization · Loyalty · Mobile Gaming · SDK · Supply Side Platform · Ad Exchange
 
 ## adjoe (playtime rewards) on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adjoe Domain Security](https://apis.io/security/adjoe/adjoe-domain-security/)
+- [adjoe (playtime rewards) Domain Security](https://apis.io/security/adjoe/adjoe-domain-security/)
 
 ## Where to find this API
 
@@ -96,25 +96,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.6** — emerging · rubric 0.25.0 · scored 2026-10-28
+**Kin Score 13.7** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 21.1 |
+| Operational transparency | 19.0 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -122,7 +122,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -132,8 +132,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adjoe/](https://apis.io/providers/adjoe/).
 
